@@ -12,6 +12,15 @@ body {
 	overflow: hidden;
 }
 
+@font-face {
+    font-family: 'coolveticaregular';
+    src: url('coolvetica_rg-webfont.woff2') format('woff2'),
+         url('coolvetica_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 a:link, a:visited, a:focus, a:active {
 	color:initial;
 	text-decoration: none;
