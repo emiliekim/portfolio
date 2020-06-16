@@ -254,6 +254,12 @@ h1.title_cv {
 	line-height: 25px;
 	text-align: justify;
 	text-justify: inter-word;
+	overflow: auto;
+}
+
+* {
+    scrollbar-color: lightgreen transparent;
+    scrollbar-width: thin;
 }
 
 
